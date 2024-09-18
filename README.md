@@ -14,3 +14,5 @@ python -m streamlit run main.py
 ```
 
 The dashboard contains the two business questions from the notebook. Some of the visualization in the dashboard is able to be modified for some of the parameters.
+
+The dashboard is deployed on https://airquality-6k9kqzg3utspqgonhatxuc.streamlit.app/
